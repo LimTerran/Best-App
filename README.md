@@ -44,6 +44,7 @@ Best App
 <a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
 <a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | 著名 GTD，上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
+<a href="#SteerMouse" name="SteerMouse">★</a>★★★☆ | [SteerMouse] | 鼠标和键盘组合按键，让鼠标替代触摸板手势 | $19.99 | [#](https://download.cnet.com/SteerMouse/3000-18491_4-76439.html)
 <a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类 iOS 文字选中弹出 Menu 扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
 <a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](https://www.macstories.net/reviews/clear-for-mac-review/)
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
@@ -171,21 +172,15 @@ Best App
 
 ## macOS App 优惠&促销信息媒体
 
-* [数码荔枝](https://partner.lizhi.io/mactips/cp)
+* [数码荔枝](https://store.lizhi.io/site/index/cid/skdrzvap)
+* [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
+* [BundleHunt](https://bundlehunt.com/?ap_id=macosx)
+* [MacUpdate](http://www.macupdate.com/)
 * [AppShopper](http://appshopper.com/)
-* [MacUpdate](http://www.macupdate.com/app/mac/56871/windscribe)
-* [BundleHunt]
-* [Current Mac Bundles](http://hubpages.com/technology/current-mac-bundles)
+* [V2EX MacOS](http://v2ex.com/go/macosx)
 * [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [“反”斗限免](http://free.apprcn.com/)
-* [AppyDays for Mac](https://itunes.apple.com/cn/app/id428240257?mt=12)
-* [AppDown for Mac](http://www.ipadown.com/appdown-mac/)
-* [MacAppDeals](http://www.macappdeals.com/)
-* [$2tuesday](http://twodollartues.com/)
-* [AppFridays](http://appyfridays.com/)
-* [Macheist](https://macheist.com/welcome)
-* [V2EX MacOS](http://v2ex.com/go/macosx)
-* [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
+* [Macheist](https://macheist.com/)
 
 ## 关于
 
@@ -247,6 +242,7 @@ Released under [MIT] LICENSE
 [CleanMyMac]: http://macpaw.com/cleanmymac
 [LockScreen]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
+[SteerMouse]: http://plentycom.jp/en/steermouse/index.html
 [OmmWriter]: http://www.ommwriter.com/
 [SaneDesk]: http://www.sanedeskapp.com/
 [Entropy]: http://www.eigenlogik.com/entropy/
@@ -343,7 +339,6 @@ Released under [MIT] LICENSE
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
-[BundleHunt]: https://bundlehunt.com/?ap_id=macosx
 [reeder]: http://reederapp.com/mac/
 [Unclutter]: https://unclutterapp.com
 [Magnet]: http://magnet.crowdcafe.com
